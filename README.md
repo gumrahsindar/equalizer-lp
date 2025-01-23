@@ -1,54 +1,33 @@
-# Frontend Mentor - Equalizer landing page solution - (figma to code)
-(figma to code)
-Designed by [Frontend Mentor](https://www.frontendmentor.io/challenges/meet-landing-page-rbTDS6OUR) and coded by [Gümrah Sindar](https://www.linkedin.com/in/gumrahsindar/)
+# Equalizer Landing Page
 
-## Table of contents
+## 🚀 Features
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
+- Optimal layout depending on their device's screen size.
+- See hover states for interactive elements.
 
-## Overview
+## 🛠️ Technologies Used
 
-### The challenge
+- **Next.js**: React framework for building modern web applications.
+- **TypeScript**: For type-safe development.
+- **Tailwind**: Utility first CSS framework.
+- **ShadCN**: Component library for React.
 
-Users should be able to:
+## 🌐 Live Demo
 
-- View the optimal layout depending on their device's screen size
-- See hover states for interactive elements
+- <a href="https://equalizer-landing-page-eta.vercel.app/" target="_blank">Live Demo</a>
 
-### Screenshot
+## 🌟 Lighthouse Score
 
-![](./preview.jpg)
+<div align="center">
+  <img src="./lighthouse-equalizer.png" alt="Lighthouse Score" width="400">
+</div>
 
-### Links
+## 🌄 Preview
 
-- Live Site URL: [Vercel](https://equalizer-landing-page-eta.vercel.app/)
-
-## My process
-
-### Built with
-
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Tailwind CSS](https://tailwindcss.com/) - For styles
-- [Shadcn/ui](https://ui.shadcn.com/) - Component library
-
-### What I learned
-
-In this project I experienced Shadcn for the first time. It is a component library for React and Next.js. It is very easy to use and has a lot of components. I liked it very much and I will use it in my future projects.
+<div align="center">
+  <img src="./preview.jpg" alt="Preview" width="800">
+</div>
 
 ## Author
 
 - LinkedIn - [Gümrah Sindar](https://www.linkedin.com/in/gumrahsindar/)
-- Frontend Mentor - [@gumrahsindar](https://www.frontendmentor.io/profile/gumrahsindar)
-- Twitter - [@gmrhsndr](https://twitter.com/gmrhsndr)

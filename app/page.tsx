@@ -1,5 +1,5 @@
-import Hero from '@/components/Hero'
-import Pricing from '@/components/Pricing'
+import Hero from '@/app/components/Hero'
+import Pricing from '@/app/components/Pricing'
 import Image from 'next/image'
 import Link from 'next/link'
 

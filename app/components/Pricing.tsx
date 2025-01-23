@@ -13,13 +13,13 @@ const Pricing = () => {
         <Image
           src='/illustration-app.png'
           alt='app illustration'
-          width={500}
-          height={500}
+          width={450}
+          height={450}
         />
       </div>
 
       {/* pricing container */}
-      <div className='py-12 px-9 bg-clr-orange md:mr-20 text-clr-white z-50 rounded-lg w-full translate-y-2 md:absolute md:right-10 md:top-72 md:w-fit   md:px-12 lg:px-14 lg:py-16 md:-translate-y-0 '>
+      <div className='py-12 px-9 bg-clr-orange md:mr-20 text-clr-white z-50 rounded-lg w-full translate-y-2 md:absolute md:right-10 md:top-72 md:w-fit md:px-12 md:-translate-y-0 '>
         <h2 className='font-bold text-lg mb-3 lg:mb-6 lg:text-xl'>
           Premium EQ
         </h2>
